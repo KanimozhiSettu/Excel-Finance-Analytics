@@ -1,6 +1,6 @@
 # Excel-Finance-Analytics
 
-Project Objective:
+**Project Objective:**
  
 1) Create Profit and Loss (P&L) reports:
     By finance profit and loss reports by Fiscal Year & Months.[https://github.com/KanimozhiSettu/Excel-Finance-Analytics/blob/main/Finance_P%26L_FiscalMonth.pdf] & [https://github.com/KanimozhiSettu/Excel-Finance-Analytics/blob/main/Finance_P%26L_FiscalYear.pdf]
